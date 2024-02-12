@@ -1,0 +1,648 @@
+@import url(https://db.onlinewebfonts.com/c/75742b1de4c93f05b704d769c0d9b61a?family=Reforma+Grotesk+Bold+W08+Rg);
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Reforma Grotesk Bold W08 Rg"; 
+}
+.background{
+    background-image: url(Rectangle.png);
+    width: 100%;
+    height: 1000px;
+}
+.penis{
+    display: flex;
+    justify-content: space-around;
+    height: 130px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.great{
+    display: flex;
+    justify-content: space-between;
+    width: 521px;
+    font-size: 20px;
+}
+.hall{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    color: white;
+    height: 594px;
+}
+.sem{
+    font-size: 150px;
+    margin-top: 50px;
+    color: #DB3138;
+}
+.pen{
+    margin-top: 25px;
+}
+.gen{
+    margin-top: 40px;
+    font-size: 30px;
+    text-align: center;
+}
+.ren{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.cpe{
+    position: relative;
+    font-size: 30px;
+    width: 130px;
+    left: 40px;
+    top: 10px;
+    
+}
+.seni{
+    width: 0px;
+    height: 61px;
+    margin-right: 200px;
+}
+.seni:hover{
+    margin-left: 100px;
+    width: 100px;
+    transition: margin-left 10000ms;
+    transition: width 1000ms;
+    background-color: #DB3138;
+}
+.juli{
+    width: 100%;
+    color: white;
+}
+.s{
+   display: flex;
+   justify-content: center;
+   align-items: center; 
+   flex-direction: column;
+   border-right: 1px solid white;
+   height: 274px;
+   width: 100%;
+   font-size: 22px;
+   text-transform: uppercase;
+}
+.luk{
+    border-collapse: collapse;
+    display: flex;
+    border: 1px solid white;
+    height: 274px;
+    width: 100%;
+}
+.dig{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 274px;
+    width: 1920px;
+}
+.eu{
+    color: #DB3138;
+}
+.background2{
+    width: 100%;
+    height: 1150px;
+    background-color: #141414;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.op{
+    height: 745px;
+    width: 1296px;
+    display: flex;
+    justify-content: space-between;
+}
+.adik{
+    font-size: 50px;
+    color: white;
+    text-transform: uppercase;
+}
+.mix{
+    margin-top: 35px;
+}
+.iosik{
+    margin-top: 35px;
+    color: white;
+    font-size: 22px;
+    
+}
+.vix{
+    height: 116px;
+    width: 526px;
+}
+.m{
+    border: 1px solid white;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 177px;
+    width: 318px;
+}
+.sim{
+    border-collapse: collapse;
+}
+.sim1{
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+.sigma{
+    width: 636px;
+    display: flex;
+    justify-content: space-between;
+}
+.pig{
+    width: 277px;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.unix{
+    color: #DB3138;
+    font-size: 40px;
+}
+.background3{
+    background-color: #141414;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jesus{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1600px;
+    height: 420px;
+}
+.suka{
+    width: 366px;
+    height: 70px;
+    background-color: #DB3138;
+}
+.vig{
+    width: 286px;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+    font-size: 20px;
+}
+.figmahueta{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.curva{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    bottom: 50px;
+}
+.prev{
+    height: 50px;
+    width: 50px;
+    border: 1px solid red;
+    background-color: #141414;
+    transform:rotate(45deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.next{
+    height: 50px;
+    width: 50px;
+    border: 1px solid red;
+    background-color: #141414;
+    transform:rotate(45deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.prev:hover{
+    margin-bottom: 20px;
+    transition: 500ms;
+}
+.next:hover{
+    margin-bottom: 20px;
+    transition: 500ms;
+}
+.vid{
+    transform:rotate(-45deg)
+}
+.figmahueta{
+    position: relative;
+}
+.background4{
+    width: 100%;
+    height: 800px;
+    background-color: #141414;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.vova{
+    height: 662px;
+    width: 1296px;
+    display: flex;
+    justify-content: space-between;
+}
+.rug{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 526px;
+}
+.guld{
+    width: 147px;
+    height: 16px;
+    margin-top: 35px;
+}
+.gold{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.lug{
+    display: flex;
+    align-items: center;
+    font-size: 32px;
+    text-transform: uppercase;
+    margin-top: 35px;
+}
+.urg{
+    margin-left: 40px;
+}
+.hul{
+    font-size: 19px;
+    margin-top: 30px;
+}
+.lug1{
+    display: flex;
+    align-items: center;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+.obj{
+    display: flex;
+    flex-direction: column;   
+}
+.pidor{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.gun{
+    color: white;
+    width: 422px;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.background5{
+    height: 900px;
+    width: 100%;
+    background-color: #141414;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 1300px;
+    height: 770px;
+}
+.section-center-up{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    width: 150px;
+    text-transform: uppercase;
+}
+.Our-services{
+    font-size: 52px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+.four-romb{
+    margin-top: 50px;
+}
+.turik{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;
+    margin-top: 60px;
+    font-size: 32px;
+}
+.kulak{
+    background-color: #DB3138;
+    width: 181px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-center-down{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 90px;
+    text-transform: uppercase;
+}
+.container-information{
+    width: 308px;
+    height: 428px;
+    border: 1px solid #898989;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.name-info{
+    font-size: 24px;
+    margin-top: 30px;
+}
+.lorem-text{
+    margin-top: 30px;
+    font-size: 16px;
+    width: 226px;
+    text-align: center;
+}
+.info-button{
+    margin-top: 30px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-a{
+    position: relative;
+    font-size: 18px;
+    right: 45px;
+}
+.square{
+    height: 41px;
+    width: 58px;
+}
+.background6{
+    height: 900px;
+    width: 100%;
+    background-color: #141414;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-div{
+    height: 660px;
+    width: 1300px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-transform: uppercase;
+}
+.container-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.slider{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 300px;
+    align-items: center;
+}
+.text-Neque{
+    width: 422px;
+    text-align: center;
+    font-size: 18px;
+}
+.container-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 662px;
+    width: 526px;
+    font-size: 20px;
+}
+.imgandtext{
+    display: flex;
+    font-size: 32px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+}
+.text-dich{
+    margin-top: 30px;
+    text-transform: none
+}
+.text-info{
+    margin-left: 30px;
+}
+.background7{
+    height: 1500px;
+    width: 100%;
+    background-color: #141414;
+    display: flex;
+    align-items: center;
+}
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.img-long{
+    width: 100%;
+    margin-top: 50px;
+}
+.img-big{
+    width: 100%;
+}
+.text-work{
+    color: white;
+    text-transform: uppercase;
+    font-size: 52px;
+}
+.romb{
+    margin-top: 50px;
+}
+.container-down{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.background8{
+    height: 700px;
+    width: 100%;
+    background-color: #141414;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-very-down{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 494px;
+    width: 636px;
+    text-transform: uppercase;
+}
+.text-otvet{
+    color: white;
+    font-size: 52px;
+}
+.input{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.text-input1{
+    background-color: #141414;
+    border: 1px solid #DB3138;
+    color: white;
+    width: 306px;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    text-indent: 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.text-input2{
+    background-color: #141414;
+    border: 1px solid #898989;
+    color: #898989;
+    width: 306px;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    text-indent: 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.text-input3{
+    background-color: #141414;    
+    border: 1px solid #898989;
+    color: #898989;
+    text-indent: 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+    width: 526px;
+    height: 150px;
+}
+.soc-icons{
+    height: 40px;
+    width: 40px;
+    border: 1px solid #898989;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputandicon{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 150px;
+}
+.soc-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.indo-address{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 61px;
+}
+.vectortd{
+    display: flex;
+}
+.vectortd2{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+.img-vec{
+    margin-right: 10px;
+}
+.posit{
+    margin-top: 30px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    
+}
+.text-ab{
+    position: relative;
+    right: 35px;
+    font-size: 24px;
+}
+.kvadrat{
+    height: 61px;
+    width: 71px;
+    background: #DB3138;
+}
+.vector-container{
+    display: flex;
+    flex-direction: column;
+    height: 61px;
+    justify-content: space-between;
+}
+.background9{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #898989;
+    background-color: #141414;
+}
+.container-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+}
+.container-footer-text-left{
+    color: #898989;
+    text-transform: uppercase;
+    font-size: 16px
+}
+.container-footer-text-right{
+    color: white;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+}
+.left{
+    transform:rotate(-45deg);
+    color: white;
+}
+.right{
+    transform:rotate(-45deg);
+    color: white;
+}
